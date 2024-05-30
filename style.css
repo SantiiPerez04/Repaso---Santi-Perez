@@ -1,0 +1,32 @@
+body {
+    padding: 10rem 5rem;
+    background-image: url(./league-of-legends.avif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.formulario {
+    background-color: white;
+    padding: 1rem;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    height: 20rem;
+    border: 5px solid red;
+}
+
+.completar {
+
+}
+
+input {
+    border: none;
+    border-bottom: 2px solid red;
+    padding: 0.5rem;
+}
+
+.recordar {
+    padding: 1rem 0;
+}
